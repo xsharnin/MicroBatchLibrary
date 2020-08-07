@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBatchJobsProcessorTests", "MicroBatchJobsProcessorTests\MicroBatchJobsProcessorTests.csproj", "{A5E3A482-A8FF-42D7-A4DD-0FF415E91BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBatchJobsProcessor", "MicroBatchJobsProcessor\MicroBatchJobsProcessor.csproj", "{42E6D162-94E0-4A83-8C75-38CE7755F441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E3A482-A8FF-42D7-A4DD-0FF415E91BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E3A482-A8FF-42D7-A4DD-0FF415E91BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E3A482-A8FF-42D7-A4DD-0FF415E91BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E3A482-A8FF-42D7-A4DD-0FF415E91BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E6D162-94E0-4A83-8C75-38CE7755F441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E6D162-94E0-4A83-8C75-38CE7755F441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E6D162-94E0-4A83-8C75-38CE7755F441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E6D162-94E0-4A83-8C75-38CE7755F441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C2160CB-B804-4CFB-B368-5FED3937105D}
+	EndGlobalSection
+EndGlobal
